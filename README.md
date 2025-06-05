@@ -47,22 +47,25 @@ voice-assistant-arduino/
 ├── arduino_code.ino         # Arduino sketch
 ├── requirements.txt         # Python dependencies
 └── README.md                # Project documentation
-🎯 Example Commands
+🎯 **Example Commands**
 "Turn on the light"
 
 "Turn off the light"
 
 "Read temperature"
 
-👨‍💻 Authors
+👨‍💻 **Authors**
 
 Manas Bhatt
 Hoza Mihu
 Avdesh Belwal
 
-🎓 Academic Info
+📹 **Working Video**
+link: http://tiny.cc/h05m001
+
+🎓 **Academic Info**
 This project was submitted in partial fulfillment for the degree of Bachelor of Technology in Computer Science & Engineering at Dev Bhoomi Uttarakhand University.
 
-📜 License
+📜 **License**
 This project is licensed for academic and learning purposes.
 
