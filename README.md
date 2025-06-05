@@ -1,7 +1,7 @@
 # VOICE-ASSISTANT-USING-PYTHON-AND-ARDUINO
 This project is a simple voice-controlled assistant built using Python for voice recognition and Arduino for executing hardware-level commands. It demonstrates how natural language input can control devices and perform automated tasks in real time.
 
-🔧** Features**
+🔧**Features**
 Voice recognition using Python's speech_recognition library
 
 Integration with Arduino via pySerial
